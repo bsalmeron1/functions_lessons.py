@@ -48,7 +48,7 @@ return total
 print(absolute_sum(-1,-2,-3))
 # Indefinite Arguments (*args) Practice #3
 # Create a function called personal_numbers that receives, as its first argument, a name, and then an indefinite number of values.
-
+def personal_numbers
 # The function should return the following message:
 
 # "{name}, the sum of your numbers is {sum_numbers}"
